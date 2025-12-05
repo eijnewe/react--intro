@@ -37,6 +37,12 @@ En bra introduktion till statehantering om du bygger in filtreringsfunktionalite
 [Designexempel](https://dribbble.com/shots/26823365-Mobile-App-Interface-Leaderboard-and-Performance)
 [Designexempel](https://dribbble.com/shots/15399499-A-Sample-UI-For-A-Leaderboard)
 
+### Visuell roman/Choose your own adventure
+
+För den som vill skapa något mer spel- eller underhållningsrelaterat. Statehantering kommer att krävas för att hålla koll på användarens val. Alla visuella assets går altid att AI-generera om man inte har tillgång till sådana.
+
+[Designexempel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQr1KKWjziEklah-D_TbC7bLGQ-mPZ04M2F3QXfdHj01YOw_COosd2BoLHDrUEbD6MjYn5XHB9iZivb5fBOB-oV_6fAWy1CBcrWY6AxnkScrIMXTACapgcxWGnWvFKS-7x7aoOKHURxewhRuiwASQS568rMnFZre-M1WMY7Mi7_h3e4xy7bmQFZRsbQw/s1280/3.jpg)
+
 ## 2. 👩‍🔬 Tekniska förberedelser
 
 - [ ] **Genomförd**
