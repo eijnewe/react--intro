@@ -6,9 +6,11 @@ En introduktionsuppgift där du kommer lära dig att bygga ett projekt med Vites
 
 (Du behöver inte göra en fork eller klon av denna repo då ditt React-projekt kommer skapas i en separat mapp.)
 
-## 🪜 Steg
+## 🎯 Delmål
 
 ## 👷 1. Bestäm vad du ska bygga
+
+- [ ] **Genomförd**
 
 ### Försök att designa utifrån mobile first-approachen
 
@@ -22,6 +24,12 @@ En klassiker av en anledning. Det är ett utmärkt sätt att bekanta sig med Rea
 
 [Designexempel](https://dribbble.com/shots/26627635-Simple-To-Do-List-Mobile-App)
 
+### Quiz-app
+
+Ett tillfälle att öva på både på statehantering och objektmetoder. Börja smått med ett par kategorier av frågor där spelaren kryssar i ett av flera svarsalternativ. Bygg sedan vidare med fritext, multiple choice, tidsbegränsningar per fråga, versus mode etc.
+
+[Designexempel](https://dribbble.com/shots/19036723-Quiz-mobile-app-concept)
+
 ### Scorekeeper/Leaderboard
 
 En bra introduktion till statehantering om du bygger in filtreringsfunktionalitet eller möjlighet till att uppdatera poäng/plats på leaderboarden.
@@ -30,6 +38,8 @@ En bra introduktion till statehantering om du bygger in filtreringsfunktionalite
 [Designexempel](https://dribbble.com/shots/15399499-A-Sample-UI-For-A-Leaderboard)
 
 ## 2. 👩‍🔬 Tekniska förberedelser
+
+- [ ] **Genomförd**
 
 1. Öppna terminalen
 2. Öppna en mapp (T.ex. om du har en som heter "repos", "uppgifter" eller liknande) som du vill spara projektet i
@@ -46,14 +56,20 @@ En bra introduktion till statehantering om du bygger in filtreringsfunktionalite
 
 ## 3. Bestäm vilka dependencies som ska användas
 
+- [ ] **Genomförd**
+
 Bestäm om du ska använda TailWind eller vanlig CSS, om du ska bygga alla UI-element själv eller prova på bilbiotek som [Radix UI](https://www.radix-ui.com/) eller [Base UI](https://base-ui.com/) etc. innan du börjar bygga. Det går såklart att lägga till och justera saker under arbetets gång, men försök alltid att vara konsekvent i ditt arbetssätt. Utnyttja Reacts enorma ekosystem av populära bibliotek för att kunna åstadkomma mer med mindre jobb.
 
 ## 4. Skapa en mapp- och filstruktur
+
+- [ ] **Genomförd**
 
 Separera components, views och pages. Eftersom allt i slutändan består av JavaScript-funktioner behöver du inte separera dynamiska och statiska filer, även om vissa filer kommer sakna eget state.
 
 (Den här delen är inte kritisk. Du skulle kunna börja med att bygga allt i `App.tsx` och sen bryta ut saker när du märker att filen börjar bli lång och rörig.)
 
 ## 5. Använd `useState`
+
+- [ ] **Genomförd**
 
 Bekanta dig med `useState` och andra React hooks som kan tänkas behövas i ditt projekt. "State" är ett essentiellt koncept inom frontendutveckling eftersom det är det som omvandlar en statisk webbsida till en interaktiv webbapplikation. State-variabler används i alla sammanhang där en komponent måste renderas om baserat på användarinteraktion. Varje gång värdet i en state-variabel uppdateras renderas komponenten den ligger i om.
