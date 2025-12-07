@@ -14,7 +14,7 @@ En introduktionsuppgift där du kommer lära dig att bygga ett projekt med Vites
 
 ### Försök att designa utifrån mobile first-approachen
 
-Du har fria händer men försök hålla det till en småskalig app där du åtminstone kan bygga en MVP (Minimum viable product) inom loppet av två veckor. Använd dig av sidor som [dribbble](https://dribbble.com/)
+Du har fria händer men försök hålla det till en småskalig app där du åtminstone kan bygga en MVP (Minimum viable product) inom loppet av två veckor. Använd dig av sidor som [dribbble](https://dribbble.com/) för att hitta mock-ups och idéer för hur UI:t ska se ut.
 
 ### ‼️ Förslag
 
